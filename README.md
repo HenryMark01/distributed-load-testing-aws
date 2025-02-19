@@ -6,7 +6,6 @@ This repository documents my experience using **AWS Distributed Load Testing** t
 ## **Key Features**
 - **Scalable Load Testing**: Simulates concurrent users generating transactional requests to test website performance.
 - **Real-Time Monitoring**: Uses **Amazon CloudWatch** for live test monitoring and performance tracking.
-- **Custom JMeter Support**: Supports **JMeter scripts** for precise and customizable test scenarios.
 - **Automated Deployment**: Deployed using **AWS CloudFormation** with minimal manual setup.
 - **Multi-Region Support**: Enables distributed testing across multiple AWS regions.
 
