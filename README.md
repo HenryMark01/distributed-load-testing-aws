@@ -11,6 +11,7 @@ This repository documents my experience using **AWS Distributed Load Testing** t
 - **Multi-Region Support**: Enables distributed testing across multiple AWS regions.
 
 ## **Architecture**
+![](./media/architecture.png)
 The **Distributed Load Testing on AWS** solution follows a **serverless architecture** utilizing:
 - **Amazon API Gateway**: Handles API requests for test execution.
 - **AWS Lambda**: Executes business logic for managing test scenarios.
